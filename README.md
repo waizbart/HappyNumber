@@ -33,7 +33,10 @@ Instalação da biblioteca PySimpleGUI:
 ```
 pip install pysimplegui
 ```
-
+Execução do programa 
+```
+python main.py
+```
 ## Features
 Para um visual mais intuitivo foi usada a biblioteca PySimpleGUI para criar uma interface gráfica:
 
