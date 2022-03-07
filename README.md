@@ -27,3 +27,26 @@ Explicação:
 
 Entrada: n = 2
 Saída: FALSO
+
+## Inicialização 
+Instalação da biblioteca PySimpleGUI:
+```
+pip install pysimplegui
+```
+
+## Features
+Para um visual mais intuitivo foi usada a biblioteca PySimpleGUI para criar uma interface gráfica:
+
+![image](https://user-images.githubusercontent.com/63511690/157034079-f26b864d-9f50-4da2-a7eb-94699655a312.png)
+
+Caso o usuário digite algo que não é um número, ou um número que não é um inteiro positivo o programa retorna um erro:
+
+![image](https://user-images.githubusercontent.com/63511690/157034287-c1e0224e-40bd-4420-9f27-f4436554c361.png)
+
+Para caso o número seja feliz ou não: 
+
+![image](https://user-images.githubusercontent.com/63511690/157034471-2b0c937f-21a8-4201-ad5b-45221cfb4e39.png)
+![image](https://user-images.githubusercontent.com/63511690/157034552-8abb28ea-86cb-42fb-acfc-8e1aa7385429.png)
+
+O botão "Limpar" limpa a caixa de texto de output, e o botão cancelar fecha o programa
+
